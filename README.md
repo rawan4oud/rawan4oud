@@ -1,4 +1,4 @@
-# Intro 
+# About
 Hello there! 👋🏼
 <!--
 **rawan4oud/rawan4oud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 My name is Rawan Oud (she/her) and I am currently a Computer Engineering student 👩🏻‍💻 at the Lebanese American University 🎓. 
 
+# My GitHub
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rawan4oud)
 
